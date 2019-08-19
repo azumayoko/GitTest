@@ -1,3 +1,5 @@
 GitTest用テキスト
 
-Version1.0
+Version1.1
+
+新しく追加した①
