@@ -3,5 +3,5 @@ GitTest用テキスト
 Version1.2
 
 1.2
-
+tutorial1で追加
 Tutorial_2で追加した
