@@ -4,4 +4,5 @@ Version1.2
 
 1.2
 tutorial_2で後で追加した
+tutorial1で追加
 Tutorial_2で追加した
