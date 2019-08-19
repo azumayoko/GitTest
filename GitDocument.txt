@@ -1,0 +1,3 @@
+GitTest用テキスト
+
+Version1.0
